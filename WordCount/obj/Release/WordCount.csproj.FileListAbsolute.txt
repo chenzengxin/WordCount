@@ -1,0 +1,6 @@
+E:\Study Test\VSProject\WordCount\WordCount\bin\Release\WordCount.exe.config
+E:\Study Test\VSProject\WordCount\WordCount\bin\Release\WordCount.exe
+E:\Study Test\VSProject\WordCount\WordCount\bin\Release\WordCount.pdb
+E:\Study Test\VSProject\WordCount\WordCount\obj\Release\WordCount.csprojResolveAssemblyReference.cache
+E:\Study Test\VSProject\WordCount\WordCount\obj\Release\WordCount.exe
+E:\Study Test\VSProject\WordCount\WordCount\obj\Release\WordCount.pdb
